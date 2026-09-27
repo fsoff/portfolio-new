@@ -1,0 +1,315 @@
+[
+  {
+    "slug": "medigreen",
+    "title": "MEDIGREEN",
+    "category": "Information Design",
+    "kind": "Visual identity · Scientific communication",
+    "cover": "posters-02.webp",
+    "description": "An identity for a shared Mediterranean. Handcrafted objects, maritime patterns and clear visual systems bring fisheries, aquaculture, renewable energy and nature conservation into the same conversation.",
+    "note": "The visual identity draws on Mediterranean craft and the project’s focus on Maritime Spatial Planning. A coordinated system connects project communication, infographics and campaign posters.",
+    "images": [
+      [
+        "posters-02.webp",
+        "Many uses, one sea. MEDIGREEN campaign poster."
+      ],
+      [
+        "identity-03.webp",
+        "Mediterranean references and the development of the visual identity."
+      ],
+      [
+        "identity-04.webp",
+        "Symbols, patterns and visual references."
+      ],
+      [
+        "identity-06.webp",
+        "The MEDIGREEN identity system."
+      ],
+      [
+        "posters-03.webp",
+        "Communicating across borders and languages."
+      ],
+      [
+        "posters-08.webp",
+        "People. Data. Planning."
+      ],
+      [
+        "identity-09.webp",
+        "Applications across printed and digital communication."
+      ]
+    ]
+  },
+  {
+    "slug": "mediterranean-in-numbers",
+    "title": "A sea in numbers",
+    "category": "Information Design",
+    "kind": "Data visualisation · Infographics",
+    "cover": "numbers-01.webp",
+    "description": "Giving marine statistics a tangible form. A series of infographics makes the scale of aquaculture, small-scale fisheries, marine energy and nature protection visible.",
+    "note": "The figures and their sources remain part of each original graphic. These are a record of the data used in the project, rather than a live statistical dashboard.",
+    "images": [
+      [
+        "numbers-01.webp",
+        "Aquaculture production in the Mediterranean."
+      ],
+      [
+        "numbers-02.webp",
+        "Small-scale fisheries in the Mediterranean and Black Sea."
+      ],
+      [
+        "numbers-03.webp",
+        "Marine renewable energy."
+      ],
+      [
+        "numbers-04.webp",
+        "Nature protection in the Mediterranean."
+      ]
+    ]
+  },
+  {
+    "slug": "msp-green",
+    "title": "Communicating the Maritime Green Deal",
+    "short": "MSP–GREEN",
+    "category": "Information Design",
+    "kind": "Editorial design · Policy communication",
+    "cover": "communicating-01.webp",
+    "description": "Making the connections between marine planning and the European Green Deal easier to follow. Editorial design and infographics turn policy relationships into a visual companion for practitioners, decision-makers and sustainability communicators.",
+    "note": "Report by Annija Danenberga and Folco Soffietti, developed within MSP-GREEN. Infographics by Folco Soffietti; photographs by Annija Danenberga. The selection also includes visual summaries of Green Deal components in maritime spatial plans.",
+    "images": [
+      [
+        "communicating-01.webp",
+        "Communicating the Maritime Green Deal: cover."
+      ],
+      [
+        "research-08.webp",
+        "Comparing Green Deal policies and maritime spatial plans."
+      ],
+      [
+        "research-09.webp",
+        "A visual synthesis of opportunities and challenges."
+      ],
+      [
+        "communicating-06.webp",
+        "A spread from the communication companion."
+      ],
+      [
+        "communicating-10.webp",
+        "Policy communication through editorial design."
+      ]
+    ]
+  },
+  {
+    "slug": "crossgov",
+    "title": "CROSSGOV",
+    "category": "Information Design",
+    "kind": "Information design · Research communication",
+    "cover": "research-05.webp",
+    "description": "A visual account of how science, policy and society connect. Diagrams and illustrated interfaces organise a complex research methodology into relationships, steps and examples that readers can navigate.",
+    "note": "Selected graphics from the CROSSGOV Science–Policy–Society Interfaces work. The material presents the analytical framework alongside examples from marine policy contexts.",
+    "images": [
+      [
+        "research-05.webp",
+        "Introducing Science–Policy–Society Interfaces."
+      ],
+      [
+        "research-06.webp",
+        "The analytical methodology and its main components."
+      ],
+      [
+        "research-07.webp",
+        "A selection of case-study findings."
+      ],
+      [
+        "research-04.webp",
+        "Mapping relationships in the Northern Adriatic."
+      ]
+    ]
+  },
+  {
+    "slug": "research-maps",
+    "title": "Research, made visible",
+    "category": "Information Design",
+    "kind": "Systems mapping · Data visualisation",
+    "cover": "research-11.webp",
+    "description": "Drawing the relationships behind marine governance. These works use diagrams and maps to give structure to institutional roles, research processes and the many uses of maritime space.",
+    "note": "A selection from MSP4BIODIVERSITY, REGINA-MSP and MSP Italy. Each graphic keeps the language and structure of its original project.",
+    "images": [
+      [
+        "research-11.webp",
+        "MSP Italy: uses and planning units in the Tyrrhenian maritime area."
+      ],
+      [
+        "research-02.webp",
+        "MSP4BIODIVERSITY: the proposed virtual centre and its organisation."
+      ],
+      [
+        "research-03.webp",
+        "REGINA-MSP: the Sardinian regional strategy for Ocean Literacy."
+      ]
+    ]
+  },
+  {
+    "slug": "aquaculture",
+    "title": "Filière Aquacole",
+    "category": "Information Design",
+    "kind": "Interactive design · Science communication",
+    "cover": "aquaculture.webp",
+    "description": "An interactive visual exploration of the aquaculture sector, from production to distribution and consumption.",
+    "note": "Explore the stages directly in the interface below. The content is in French.",
+    "external": "https://fsoff.github.io/Aquaculture-fr/",
+    "externalLabel": "Explore the interactive project",
+    "images": []
+  },
+  {
+    "slug": "plastissea",
+    "title": "Plastissea",
+    "category": "Creative Design",
+    "kind": "Illustration · Children’s book · Storytelling",
+    "cover": "plastissea-17.webp",
+    "description": "An exploration at sea, for children and the adults reading with them. Drawing, language and scientific knowledge come together in an illustrated story about the marine world and plastic.",
+    "note": "Text, illustrations and graphic design by Folco Soffietti. Created with support from the European Union through POSEIDONE, Interreg VI-A Italy–Slovenia, with CORILA, Università Iuav di Venezia and CNR-Ismar. ISBN 9788889405475.",
+    "images": [
+      [
+        "plastissea-01.webp",
+        "Plastissea, cover."
+      ],
+      [
+        "plastissea-07.webp",
+        "Illustrated encounters beneath the surface."
+      ],
+      [
+        "plastissea-12.webp",
+        "A spread from Plastissea."
+      ],
+      [
+        "plastissea-17.webp",
+        "Marine life and imagined objects."
+      ]
+    ],
+    "reader": {
+      "prefix": "plastissea",
+      "count": 28,
+      "title": "Read Plastissea"
+    }
+  },
+  {
+    "slug": "idee",
+    "title": "Idee che cambiano il mondo",
+    "category": "Creative Design",
+    "kind": "Comics · History of science",
+    "cover": "idee-03.webp",
+    "description": "Ideas have stories. This comic work uses sequential drawing to explore how practices and inventions take shape, including the unexpected history of freestyle swimming.",
+    "note": "Story concept by Massimiano Bucchi. Adaptation by Folco Soffietti. Read the supplied selection below in its original Italian.",
+    "images": [
+      [
+        "idee-01.webp",
+        "Idee che cambiano il mondo: opening page."
+      ],
+      [
+        "idee-03.webp",
+        "Sequential drawing and the history of swimming."
+      ]
+    ],
+    "reader": {
+      "prefix": "idee",
+      "count": 12,
+      "title": "Read the comic selection"
+    }
+  },
+  {
+    "slug": "sketchbook",
+    "title": "Thinking on paper",
+    "category": "Creative Design",
+    "kind": "Drawing · Sketchbook",
+    "cover": "doodle-10.webp",
+    "description": "Drawing is a way of working things out. Figures, landscapes, visual notes and half-formed stories share these pages, connecting the more structured parts of my practice with observation and play.",
+    "note": "A selection of sketches and doodles. These drawings also connect the different areas of this portfolio.",
+    "images": [
+      [
+        "doodle-10.webp",
+        "Characters and fragments of stories."
+      ],
+      [
+        "doodle-01.webp",
+        "Visual research and notes."
+      ],
+      [
+        "doodle-02.webp",
+        "Planning a page through drawing."
+      ],
+      [
+        "doodle-06.webp",
+        "Landscape study."
+      ],
+      [
+        "doodle-07.webp",
+        "Figure studies."
+      ],
+      [
+        "doodle-09.webp",
+        "Experiments with form and texture."
+      ],
+      [
+        "doodle-11.webp",
+        "Ideas in the margins."
+      ]
+    ],
+    "video": "drawing-film.mp4"
+  },
+  {
+    "slug": "sculpture",
+    "title": "Learning through sculpture",
+    "short": "Sculpture studies",
+    "category": "Personal practice",
+    "kind": "Sculpture · Material studies",
+    "cover": "diana-4.webp",
+    "dark": true,
+    "description": "A space to keep learning with my hands. Working with volume, posture and surface gives me another way to look closely, moving between observation, physical materials and digital studies.",
+    "note": "The selected works include Gandhi (2018, plaster and glasses), Young Athlete / Marco (2022, plaster), Marching Clown (2024, wax and wood) and Resting Diana / Maria (2026, clay and 3D render).",
+    "images": [
+      [
+        "diana-4.webp",
+        "Resting Diana (Maria), 2026. Digital study.",
+        "black"
+      ],
+      [
+        "diana-2.webp",
+        "Resting Diana: another view.",
+        "black"
+      ],
+      [
+        "diana-5.webp",
+        "Resting Diana: rendered study."
+      ],
+      [
+        "sculpture-1-1.webp",
+        "Gandhi, 2018. Plaster and glasses.",
+        "black"
+      ],
+      [
+        "sculpture-2-1.webp",
+        "Young Athlete (Marco), 2022. Plaster.",
+        "black"
+      ],
+      [
+        "sculpture-3-1.webp",
+        "Marching Clown, 2024. Wax and wood.",
+        "black"
+      ]
+    ]
+  },
+  {
+    "slug": "clay-study",
+    "title": "A study in clay",
+    "category": "Personal practice",
+    "kind": "Sculpture · Work in progress",
+    "cover": "clay-study-3.webp",
+    "description": "A figure studied through weight, gesture and balance. These studio photographs record a work in progress and the physical process of building a form.",
+    "note": "Original photographs from the studio. The support structure remains visible as part of the working process.",
+    "images": [
+      [
+        "posture-study.webp",
+        "Posture study, rotated 90° clockwise."
+      ]
+    ]
+  }
+]
