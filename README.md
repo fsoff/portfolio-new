@@ -18,6 +18,7 @@ Official instructions: https://docs.github.com/en/pages/getting-started-with-git
 
 ## Editing
 
+- `publications.json`: selected publication citations and the ORCID link.
 - `projects.json`: project titles, descriptions, image selections, captions and readers.
 - `build.py`: page structure, section introductions and navigation.
 - `docs/style.css`: typography, spacing, colour, responsive layouts and reveals.
@@ -31,7 +32,7 @@ In the Sites working checkout, the equivalent published directory is `dist` rath
 
 ## Sculpture and artwork notes
 
-The clay sculpture turntable uses the 16 supplied studio photographs. Their backgrounds remain original: the requested background edit was blocked by the image service. The black surround in the viewer is a display background, not a retouched photograph. Frame spacing reflects the original photographic sequence.
+The clay sculpture turntable uses 15 intact studio photographs (the damaged twelfth source photograph is excluded). Their backgrounds remain original: the requested background edit was blocked by the image service. The black surround in the viewer is a display background, not a retouched photograph. Frame spacing reflects the original photographic sequence.
 
 The woman statue uses the supplied OBJ geometry. Its separate MTL/textures were not included, so the viewer uses a neutral clay material. Rotate by dragging or using buttons/arrows, zoom with the wheel, pinch or buttons, and reset the view at any time. If WebGL is unavailable, the photograph remains visible.
 
