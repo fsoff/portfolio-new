@@ -160,6 +160,27 @@
     "images": []
   },
   {
+    "slug": "tortelli-spaziali",
+    "title": "L’eternità dei tortelli spaziali",
+    "short": "Eternal Spatial Tortelli",
+    "category": "Creative Design",
+    "kind": "Comics · Published collection",
+    "cover": "tortelli-spaziali.webp",
+    "description": "An astronaut prepares to leave the Milky Way when her mother calls. A conversation about humanity’s future becomes a question about the family’s tortelli recipe.",
+    "note": "Published in Space Exploration in Comic Strips / L’exploration spatiale en bandes dessinées, the collection from the Europe-wide comic competition organised for Space Week at UNamur. Credited to Folco Soffietti on page 13. English version shown below.",
+    "images": [
+      [
+        "tortelli-spaziali.webp",
+        "L’eternità dei tortelli spaziali — English version.",
+        "wide"
+      ],
+      [
+        "space-week-collection.webp",
+        "Cover of the Space Week UNamur collection in which the comic appears."
+      ]
+    ]
+  },
+  {
     "slug": "plastissea",
     "title": "Plastissea",
     "category": "Creative Design",
@@ -213,6 +234,38 @@
       "prefix": "idee",
       "count": 12,
       "title": "Read the comic selection"
+    },
+    "hidden": true
+  },
+  {
+    "slug": "eureka",
+    "title": "Eureka",
+    "category": "Creative Design",
+    "kind": "Comics · BDFIL 2020",
+    "cover": "eureka-01.webp",
+    "description": "A one-page comic created for participation in BDFIL 2020.",
+    "note": "Original artwork in French.",
+    "images": [
+      [
+        "eureka-01.webp",
+        "Eureka — participation in BDFIL 2020.",
+        "wide"
+      ]
+    ]
+  },
+  {
+    "slug": "zine",
+    "title": "Unpublished zine",
+    "category": "Creative Design",
+    "kind": "Comics · Unpublished work",
+    "cover": "zine-01.webp",
+    "description": "An unpublished comic zine.",
+    "note": "Five pages, in English.",
+    "images": [],
+    "reader": {
+      "prefix": "zine",
+      "count": 5,
+      "title": "Read the zine"
     }
   },
   {
